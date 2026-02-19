@@ -1,0 +1,131 @@
+--- Hour 1 ---
+Sensor Data: {
+  temperature: 20.6,
+  humidity: 52.3,
+  light: 921.9,
+  soilMoisture: 62.8,
+  co2: 983
+}
+Watering Decision: No Watering Needed
+Shading Decision: Close Shades Partially
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 2 ---
+Sensor Data: {
+  temperature: 30.6,
+  humidity: 52.4,
+  light: 206.7,
+  soilMoisture: 33.2,
+  co2: 933.4
+}
+Watering Decision: Start Watering
+Shading Decision: Open Shades
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 3 ---
+Sensor Data: {
+  temperature: 43.5,
+  humidity: 16.9,
+  light: 331.9,
+  soilMoisture: 28.3,
+  co2: 919.8
+}
+Alert Triggered!
+Watering Decision: Start Watering
+Shading Decision: No Action
+Risk Alert: Yes
+Critical Flag: No
+
+--- Hour 4 ---
+Sensor Data: {
+  temperature: 43.7,
+  humidity: 34.9,
+  light: 678.2,
+  soilMoisture: 38.9,
+  co2: 1187.3
+}
+Watering Decision: Light Watering
+Shading Decision: No Action
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 5 ---
+Sensor Data: {
+  temperature: 26.3,
+  humidity: 17.7,
+  light: 775.3,
+  soilMoisture: 35.5,
+  co2: 1000
+}
+Watering Decision: No Watering Needed
+Shading Decision: No Action
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 6 ---
+Sensor Data: {
+  temperature: 38.7,
+  humidity: 69.5,
+  light: 1010,
+  soilMoisture: 72.2,
+  co2: 1123.7
+}
+Watering Decision: Skip Watering
+Shading Decision: Close Shades Fully
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 7 ---
+Sensor Data: {
+  temperature: 30.3,
+  humidity: 29.6,
+  light: 378.9,
+  soilMoisture: 29.1,
+  co2: 981.1
+}
+Watering Decision: Start Watering
+Shading Decision: No Action
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 8 ---
+Sensor Data: {
+  temperature: 23.5,
+  humidity: 35.1,
+  light: 277.9,
+  soilMoisture: 73.3,
+  co2: 1297.1
+}
+Watering Decision: Skip Watering
+Shading Decision: Open Shades
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 9 ---
+Sensor Data: {
+  temperature: 43,
+  humidity: 68.2,
+  light: 414.1,
+  soilMoisture: 70.9,
+  co2: 986.7
+}
+Watering Decision: Skip Watering
+Shading Decision: No Action
+Risk Alert: No
+Critical Flag: No
+
+--- Hour 10 ---
+Sensor Data: {
+  temperature: 39.3,
+  humidity: 50.9,
+  light: 827.5,
+  soilMoisture: 46,
+  co2: 992.5
+}
+Watering Decision: Light Watering
+Shading Decision: Close Shades Partially
+Risk Alert: No
+Critical Flag: No
+PS C:\Users\Admin\Desktop\grrenhouse.js>
